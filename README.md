@@ -1,10 +1,8 @@
+
+
+
 <h3 align="center">An enthusiastic FullStack Developer committed to building impactful applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/MvMxQ1a.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
 - 📫 How to reach me **rizvyhq1@gmail.com**
 
