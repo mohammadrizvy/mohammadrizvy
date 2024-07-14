@@ -4,7 +4,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/MvMxQ1a.gif">
 
+- 🌱 I’m currently learning **Rust,Typescript,**
+  
+- 👨‍💻 All of my projects are available at [mdehsanulhaquerizvy.dev](mdehsanulhaquerizvy.dev)
+  
+- 💬 Ask me about **Javascript,React,Next.js**
+  
 - 📫 How to reach me **rizvyhq1@gmail.com**
+  
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Si4JsFnPMMvcGdlvXiwVI6vjUdbMJaDI/view](https://drive.google.com/file/d/1Si4JsFnPMMvcGdlvXiwVI6vjUdbMJaDI/view)
 
 ## 🌐 Socials:
 <p align="center">
