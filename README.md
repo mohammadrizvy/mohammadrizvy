@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Rust,Typescript,**
   
-- 👨‍💻 All of my projects are available at [mdehsanulhaquerizvy.dev](mdehsanulhaquerizvy.dev)
+- 👨‍💻 All of my projects are available at [https://mdehsanulhaquerizvyweb.netlify.app/](https://mdehsanulhaquerizvyweb.netlify.app/)
   
 - 💬 Ask me about **Javascript,React,Next.js**
   
