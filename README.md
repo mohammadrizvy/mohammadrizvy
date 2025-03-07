@@ -1,4 +1,4 @@
-![logo](https://github.com/mohammadrizvy/mohammadrizvy/blob/main/fe5270065307ea7e3db92777ebc2827a.jpg)
+![logo](https://github.com/mohammadrizvy/mohammadrizvy/blob/main/066fa2cb37aa563522fa6c1f0760d172.jpg)
 
 <h3 align="center">An enthusiastic FullStack Developer committed to building impactful applications.</h3>
 
