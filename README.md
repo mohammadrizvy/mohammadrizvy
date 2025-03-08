@@ -2,28 +2,7 @@
 
 <h3 align="center">An enthusiastic FullStack Developer committed to building impactful applications.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/MvMxQ1a.gif">
-
-- 🌱 I’m currently learning **Rust,Typescript,**
-  
-- 👨‍💻 All of my projects are available at [https://mdehsanulhaquerizvyweb.netlify.app/](https://mdehsanulhaquerizvyweb.netlify.app/)
-  
-- 💬 Ask me about **Javascript,React,Next.js**
-  
-- 📫 How to reach me **rizvyhq1@gmail.com**
-  
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Si4JsFnPMMvcGdlvXiwVI6vjUdbMJaDI/view](https://drive.google.com/file/d/1Si4JsFnPMMvcGdlvXiwVI6vjUdbMJaDI/view)
-
-## 🌐 Socials:
-<p align="center">
-  <a href="https://linkedin.com/in/mohammad-rizvy-543905291"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://pinterest.com/rizvyhq002"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest"></a>
-  <a href="https://quora.com/profile/Mohammad-Rizvy"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" alt="Quora"></a>
-  <a href="https://stackoverflow.com/users/mohammad-rizvy"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-  <a href="https://codepen.io/mohammadrizvy"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" alt="Codepen"></a>
-</p>
-
-# 💻 Tech Stack:
+# My tech stack:
 <p align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -61,26 +40,16 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadrizvy&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
 
-</p>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mohammadrizvy&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammadrizvy&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</p>
+
+
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mohammadrizvy&icon=1&color=0" alt="Profile Views">
-</p>
 
-## 💰 You can help me by Donating
-<p align="center">
-  <a href="https://buymeacoffee.com/ehsanulhaquerizvy"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee"></a>
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
