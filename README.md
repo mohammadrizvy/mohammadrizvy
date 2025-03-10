@@ -1,5 +1,7 @@
 ![logo](https://github.com/mohammadrizvy/mohammadrizvy/blob/main/317a16edf8feb656d8a9cf1b5b9d8a2c.jpg)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Developer;JavaScript+%7C+TypeScript+%7C+Python;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 <h3 align="center">An enthusiastic FullStack Developer committed to building impactful applications.</h3>
 
 # My tech stack:
