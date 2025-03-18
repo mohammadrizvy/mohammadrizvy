@@ -1,4 +1,4 @@
-![logo](https://github.com/mohammadrizvy/mohammadrizvy/blob/main/066fa2cb37aa563522fa6c1f0760d172.jpg)
+ ![logo](https://github.com/mohammadrizvy/mohammadrizvy/blob/main/066fa2cb37aa563522fa6c1f0760d172.jpg)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Developer;JavaScript+%7C+TypeScript+%7C+Python;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
