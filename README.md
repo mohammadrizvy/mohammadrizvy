@@ -2,7 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Developer;JavaScript+%7C+TypeScript;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
-<h3 align="center">An enthusiastic FullStack Developer committed to building impactful applications.</h3>
+<!-- <h3 align="center">An enthusiastic FullStack Developer committed to building impactful applications.</h3> -->
+<h3 align="center">"In the fires of innovation, I forge code that shapes realms of impact."</h3>
+
  
 # My tech stack:  
 
