@@ -1,7 +1,16 @@
- ![logo](https://github.com/mohammadrizvy/mohammadrizvy/blob/main/066fa2cb37aa563522fa6c1f0760d172.jpg)
+<!-- ![logo](https://github.com/mohammadrizvy/mohammadrizvy/blob/main/066fa2cb37aa563522fa6c1f0760d172.jpg) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=FullStack+Developer;JavaScript+%7C+TypeScript;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Things" alt="Typing SVG" />
+    <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
+<img align="middle" alt="count" src="https://count.getloli.com/get/@:devrizvy?theme=booru-yuyuyui">
+ 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nosifer&duration=1800&pause=900&width=480&lines=Assalamu+Alaikum+-+السلام+عليكم;I+Go+By+Rizvy;Full+Stack+Developer"
+       alt="Typing SVG" />
 </p>
+
+
+
+
 <!-- <h3 align="center">An enthusiastic FullStack Developer committed to building impactful applications.</h3> -->
 <h3 align="center">"In the fires of innovation, I forge code that shapes realms of impact."</h3>
 
