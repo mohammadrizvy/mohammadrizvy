@@ -22,7 +22,7 @@
       align="left"
       src="https://nirzak-streak-stats.vercel.app?user=devrizvy&theme=nordfox&hide_border=true&date_format=j%2Fn%5B%2FY%5D"
       alt="GitHub Streak"
-      height="180"
+      height="170"
     />
   </a>
 
@@ -34,7 +34,7 @@
   <img
     align="right"
     src="https://i.pinimg.com/originals/5d/2c/44/5d2c44694918947aede42306cb7154d0.gif"
-    height="180"
+    height="170"
   />
 </p>
 
