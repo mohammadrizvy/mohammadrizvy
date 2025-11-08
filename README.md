@@ -16,11 +16,31 @@
 
 
 
+<p aling="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      align="left"
+      src="https://nirzak-streak-stats.vercel.app?user=devrizvy&theme=nordfox&hide_border=true&date_format=j%2Fn%5B%2FY%5D"
+      alt="GitHub Streak"
+      height="190"
+    />
+  </a>
 
-<div align="center">
- 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mohammadrizvy&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
+<!--  <img
+    align="right"
+    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2dqNzVrNTB3ZGVndXM1ejBwdm53aWVpcWI3NW94dDM5ejQ5NmRwcCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/DeBBINXN86r8Q/giphy.gif"
+    height="200"
+  /> -->
+  <img
+    align="right"
+    src="https://i.pinimg.com/originals/5d/2c/44/5d2c44694918947aede42306cb7154d0.gif"
+    height="190"
+  />
+</p>
+
+<br clear="both"/>
+
+
 
 
 
