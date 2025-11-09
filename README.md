@@ -1,7 +1,7 @@
-<!-- ![logo](https://github.com/mohammadrizvy/mohammadrizvy/blob/main/066fa2cb37aa563522fa6c1f0760d172.jpg) -->
+
 <p align="center">
-    <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
-<img align="middle" alt="count" src="https://count.getloli.com/get/@:devrizvy?theme=booru-yuyuyui">
+    <b>ѕᴘᴇᴄᴛᴀᴛᴏʀs</b><br>
+<img align="middle" alt="count" src="https://count.getloli.com/@devrivzy?name=devrivzy&theme=booru-helltaker&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1&num=33245&prefix=0">
  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Nosifer&duration=1800&pause=900&width=480&lines=Assalamu+Alaikum+-+السلام+عليكم;I+Go+By+Rizvy;Full+Stack+Developer"
@@ -12,10 +12,14 @@
 
 
 <!-- <h3 align="center">An enthusiastic FullStack Developer committed to building impactful applications.</h3> -->
+<p align="center">
+  <img src="https://github.com/devrizvy/devrizvy/blob/main/bleach.gif" alt="logo" />
+</p>
+
 <h3 align="center">"In the fires of innovation, I forge code that shapes realms of impact."</h3>
 
  
-# My tech stack:  
+# My Tech Stack :  
 <p align="center">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,ts,js,graphql,express,mongodb,postgres,bun,jest,git,docker,bash,arch&perline=8" />
