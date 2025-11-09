@@ -1,7 +1,7 @@
 
 <p align="center">
     <b>ѕᴘᴇᴄᴛᴀᴛᴏʀs</b><br>
-<img align="middle" alt="count" src="https://count.getloli.com/@devrivzy?name=devrivzy&theme=booru-helltaker&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=1&num=33245&prefix=0">
+<img align="middle" alt="count" src="https://count.getloli.com/@devrivzy?name=devrivzy&theme=booru-helltaker&padding=3&offset=0&align=center&scale=1&pixelated=1&darkmode=1&num=133245&prefix=0">
  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Nosifer&duration=1800&pause=900&width=480&lines=Assalamu+Alaikum+-+السلام+عليكم;I+Go+By+Rizvy;Full+Stack+Developer"
