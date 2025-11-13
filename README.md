@@ -13,7 +13,7 @@
 
 <!-- <h3 align="center">An enthusiastic FullStack Developer committed to building impactful applications.</h3> -->
 <p align="center">
-  <img src="https://github.com/devrizvy/devrizvy/blob/main/bleach.gif" alt="logo" />
+  <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="logo" />
 </p>
 
 <h3 align="center">"In the fires of innovation, I forge code that shapes realms of impact."</h3>
